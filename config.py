@@ -12,6 +12,6 @@ DB_URL = os.environ.get("DB_URL")
 #DB_URL = 'postgres://root@localhost:5432/GetTempBot'
 
 CLIENT_API_ID = os.environ.get("APP_ID")
-CLIENT_API_HASH =os.environ.get("API_HASH)
+CLIENT_API_HASH =os.environ.get("API_HASH")
 CLIENT_PHONE = os.environ.get("PHONE")
 CLIENT_2FA_PASSWORD = os.environ.get("PASSWORD")
